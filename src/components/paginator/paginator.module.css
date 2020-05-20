@@ -1,0 +1,16 @@
+.paginator {
+  list-style: none;
+}
+
+.paginatorItem {
+  display: inline;
+  margin: 0 5px;
+  padding: 5px;
+  cursor: pointer;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+.active {
+  background-color: grey;
+}
